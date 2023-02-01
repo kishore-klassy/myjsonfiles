@@ -24,5 +24,6 @@
                                 ],
                     "is_post_saved":false
                 }
-            ]
+            ],
+        "footer" : ["home_icon","Search","Reels","Notification","My_profile"]   
 }
