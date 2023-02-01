@@ -1,0 +1,28 @@
+{
+    "logo" :"Instagram",
+    "story":[
+                {
+                    "story1" :"Mystory",
+                    "story2" :"dinesh's story",
+                    "story3" :"varun's story"
+                }
+            ],
+    "post" :[
+                {
+                    "Account_name" : "Dhanushkraja",
+                    "isverified":true,
+                    "post":"post.object",
+                    "isliked":false,
+                    "comments":[
+                                    {
+                                        "view_comment":["comment1","comment2","comment3"],
+                                        "add_comment":"comment....",,
+                                        "is_liked_for_comment":false
+                                        
+                                    }
+
+                                ],
+                    "is_post_saved":false
+                }
+            ]
+}
